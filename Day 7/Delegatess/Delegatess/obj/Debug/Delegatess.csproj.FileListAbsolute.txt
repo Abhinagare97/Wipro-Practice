@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\.net react\Day 7\Delegatess\Delegatess\bin\Debug\Delegatess.exe.config
+C:\Users\ACER\Desktop\.net react\Day 7\Delegatess\Delegatess\bin\Debug\Delegatess.exe
+C:\Users\ACER\Desktop\.net react\Day 7\Delegatess\Delegatess\bin\Debug\Delegatess.pdb
+C:\Users\ACER\Desktop\.net react\Day 7\Delegatess\Delegatess\obj\Debug\Delegatess.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\.net react\Day 7\Delegatess\Delegatess\obj\Debug\Delegatess.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 7\Delegatess\Delegatess\obj\Debug\Delegatess.exe
+C:\Users\ACER\Desktop\.net react\Day 7\Delegatess\Delegatess\obj\Debug\Delegatess.pdb

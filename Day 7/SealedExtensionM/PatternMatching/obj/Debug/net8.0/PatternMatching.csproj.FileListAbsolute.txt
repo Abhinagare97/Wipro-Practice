@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\bin\Debug\net8.0\PatternMatching.exe
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\bin\Debug\net8.0\PatternMatching.deps.json
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\bin\Debug\net8.0\PatternMatching.runtimeconfig.json
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\bin\Debug\net8.0\PatternMatching.dll
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\bin\Debug\net8.0\PatternMatching.pdb
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.sourcelink.json
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.dll
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\refint\PatternMatching.dll
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.pdb
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\PatternMatching.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\PatternMatching\obj\Debug\net8.0\ref\PatternMatching.dll

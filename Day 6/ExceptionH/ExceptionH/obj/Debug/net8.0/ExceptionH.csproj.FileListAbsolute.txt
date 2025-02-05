@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\bin\Debug\net8.0\ExceptionH.exe
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\bin\Debug\net8.0\ExceptionH.deps.json
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\bin\Debug\net8.0\ExceptionH.runtimeconfig.json
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\bin\Debug\net8.0\ExceptionH.dll
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\bin\Debug\net8.0\ExceptionH.pdb
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.sourcelink.json
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.dll
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\refint\ExceptionH.dll
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.pdb
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ExceptionH.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.net react\Day 6\ExceptionH\ExceptionH\obj\Debug\net8.0\ref\ExceptionH.dll

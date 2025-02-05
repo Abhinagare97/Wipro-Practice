@@ -1,0 +1,2 @@
+C:\Users\ACER\Desktop\.net react\Day 7\CustomMathOperations\MSTestings\obj\Debug\MSTestings.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\.net react\Day 7\CustomMathOperations\MSTestings\obj\Debug\MSTestings.csproj.CoreCompileInputs.cache

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{515826D8-EA8E-4799-8186-21F114D3B2F2}|Encapsulation\\Encapsulation.csproj|c:\\users\\acer\\desktop\\.net react\\day 4\\encapsulation\\encapsulation\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515826D8-EA8E-4799-8186-21F114D3B2F2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\abstraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515826D8-EA8E-4799-8186-21F114D3B2F2}|Encapsulation\\Encapsulation.csproj|c:\\users\\acer\\desktop\\.net react\\day 4\\encapsulation\\encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515826D8-EA8E-4799-8186-21F114D3B2F2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABBA976-D93C-409D-BB69-39BEE9E82B4D}|Solution Items{6ABBA976-D93C-409D-BB69-39BEE9E82B4D}|C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Abstractn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABBA976-D93C-409D-BB69-39BEE9E82B4D}|Solution Items{6ABBA976-D93C-409D-BB69-39BEE9E82B4D}|solutionrelative:Abstractn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{515826D8-EA8E-4799-8186-21F114D3B2F2}|Encapsulation\\Encapsulation.csproj|c:\\users\\acer\\desktop\\.net react\\day 4\\encapsulation\\encapsulation\\abstractexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{515826D8-EA8E-4799-8186-21F114D3B2F2}|Encapsulation\\Encapsulation.csproj|solutionrelative:encapsulation\\abstractexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Abstractn.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Abstractn.cs",
+              "RelativeDocumentMoniker": "Abstractn.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Abstractn.cs",
+              "RelativeToolTip": "Abstractn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T14:05:27.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Abstraction.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Encapsulation\\Abstraction.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Abstraction.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Encapsulation\\Abstraction.cs",
+              "RelativeToolTip": "Encapsulation\\Abstraction.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T09:49:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AbstractExample.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Encapsulation\\AbstractExample.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\AbstractExample.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Encapsulation\\AbstractExample.cs",
+              "RelativeToolTip": "Encapsulation\\AbstractExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T07:11:57.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 4\\Encapsulation\\Encapsulation\\Program.cs",
+              "RelativeToolTip": "Encapsulation\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T03:58:19.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

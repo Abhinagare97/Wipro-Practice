@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{487631B6-EB07-4D61-A4E4-7FE87BC4ED6E}|Interfaces\\Interfaces.csproj|c:\\users\\acer\\desktop\\.net react\\day 6\\interfaces\\interfaces\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487631B6-EB07-4D61-A4E4-7FE87BC4ED6E}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{487631B6-EB07-4D61-A4E4-7FE87BC4ED6E}|Interfaces\\Interfaces.csproj|c:\\users\\acer\\desktop\\.net react\\day 6\\interfaces\\interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{487631B6-EB07-4D61-A4E4-7FE87BC4ED6E}|Interfaces\\Interfaces.csproj|solutionrelative:interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hr.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\Interfaces\\Interfaces\\Hr.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Hr.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\Interfaces\\Interfaces\\Hr.cs*",
+              "RelativeToolTip": "Interfaces\\Hr.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:56:54.372Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\Interfaces\\Interfaces\\Program.cs",
+              "RelativeToolTip": "Interfaces\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T09:32:14.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

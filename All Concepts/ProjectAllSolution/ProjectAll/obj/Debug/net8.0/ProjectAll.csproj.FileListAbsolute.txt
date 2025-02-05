@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\bin\Debug\net8.0\ProjectAll.exe
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\bin\Debug\net8.0\ProjectAll.deps.json
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\bin\Debug\net8.0\ProjectAll.runtimeconfig.json
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\bin\Debug\net8.0\ProjectAll.dll
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\bin\Debug\net8.0\ProjectAll.pdb
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.sourcelink.json
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.dll
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\refint\ProjectAll.dll
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.pdb
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ProjectAll.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.net react\All Concepts\ProjectAllSolution\ProjectAll\obj\Debug\net8.0\ref\ProjectAll.dll

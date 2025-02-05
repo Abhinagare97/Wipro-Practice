@@ -1,0 +1,6 @@
+C:\Users\ACER\Desktop\.net react\Day 3\ConsoleApp1Solution\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\ACER\Desktop\.net react\Day 3\ConsoleApp1Solution\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\ACER\Desktop\.net react\Day 3\ConsoleApp1Solution\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\.net react\Day 3\ConsoleApp1Solution\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 3\ConsoleApp1Solution\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\ACER\Desktop\.net react\Day 3\ConsoleApp1Solution\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

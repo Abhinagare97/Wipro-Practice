@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\bin\Debug\net8.0\SealedExtensionM.exe
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\bin\Debug\net8.0\SealedExtensionM.deps.json
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\bin\Debug\net8.0\SealedExtensionM.runtimeconfig.json
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\bin\Debug\net8.0\SealedExtensionM.dll
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\bin\Debug\net8.0\SealedExtensionM.pdb
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.sourcelink.json
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.dll
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\refint\SealedExtensionM.dll
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.pdb
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\SealedExtensionM.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.net react\Day 7\SealedExtensionM\SealedExtensionM\obj\Debug\net8.0\ref\SealedExtensionM.dll

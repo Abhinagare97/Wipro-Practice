@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|c:\\users\\acer\\desktop\\.net react\\day 8\\reflectionss\\testapp\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|c:\\users\\acer\\desktop\\.net react\\day 8\\reflectionss\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|c:\\users\\acer\\desktop\\.net react\\day 8\\reflectionss\\testapp\\testt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\testt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|c:\\users\\acer\\desktop\\.net react\\day 8\\reflectionss\\testapp\\testclassattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69B518D4-38B2-4F00-8E85-5FB07161777E}|TestApp\\TestApp.csproj|solutionrelative:testapp\\testclassattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestClassAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\TestClassAttribute.cs",
+              "RelativeDocumentMoniker": "TestApp\\TestClassAttribute.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\TestClassAttribute.cs",
+              "RelativeToolTip": "TestApp\\TestClassAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:55:32.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Testt.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\Testt.cs",
+              "RelativeDocumentMoniker": "TestApp\\Testt.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\Testt.cs*",
+              "RelativeToolTip": "TestApp\\Testt.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:52:26.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\Test1.cs",
+              "RelativeDocumentMoniker": "TestApp\\Test1.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\Test1.cs*",
+              "RelativeToolTip": "TestApp\\Test1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T08:00:16.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\day 8\\Reflectionss\\TestApp\\Program.cs*",
+              "RelativeToolTip": "TestApp\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T06:50:40.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

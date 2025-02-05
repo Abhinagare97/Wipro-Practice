@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\.net react\Csharp\ProjectDay3\ProjectDay3\bin\Debug\ProjectDay3.exe.config
+C:\Users\ACER\Desktop\.net react\Csharp\ProjectDay3\ProjectDay3\bin\Debug\ProjectDay3.exe
+C:\Users\ACER\Desktop\.net react\Csharp\ProjectDay3\ProjectDay3\bin\Debug\ProjectDay3.pdb
+C:\Users\ACER\Desktop\.net react\Csharp\ProjectDay3\ProjectDay3\obj\Debug\ProjectDay3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\.net react\Csharp\ProjectDay3\ProjectDay3\obj\Debug\ProjectDay3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Csharp\ProjectDay3\ProjectDay3\obj\Debug\ProjectDay3.exe
+C:\Users\ACER\Desktop\.net react\Csharp\ProjectDay3\ProjectDay3\obj\Debug\ProjectDay3.pdb

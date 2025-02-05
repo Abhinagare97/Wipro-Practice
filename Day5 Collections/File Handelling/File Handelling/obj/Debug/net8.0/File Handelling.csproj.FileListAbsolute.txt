@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\bin\Debug\net8.0\File Handelling.exe
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\bin\Debug\net8.0\File Handelling.deps.json
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\bin\Debug\net8.0\File Handelling.runtimeconfig.json
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\bin\Debug\net8.0\File Handelling.dll
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\bin\Debug\net8.0\File Handelling.pdb
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.sourcelink.json
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.dll
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\refint\File Handelling.dll
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.pdb
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\File Handelling.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.net react\Day5 Collections\File Handelling\File Handelling\obj\Debug\net8.0\ref\File Handelling.dll

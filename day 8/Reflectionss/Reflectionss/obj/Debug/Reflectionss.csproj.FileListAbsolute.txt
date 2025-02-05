@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\.net react\day 8\Reflectionss\Reflectionss\obj\Debug\Reflectionss.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\.net react\day 8\Reflectionss\Reflectionss\obj\Debug\Reflectionss.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\day 8\Reflectionss\Reflectionss\bin\Debug\Reflectionss.exe.config
+C:\Users\ACER\Desktop\.net react\day 8\Reflectionss\Reflectionss\bin\Debug\Reflectionss.exe
+C:\Users\ACER\Desktop\.net react\day 8\Reflectionss\Reflectionss\bin\Debug\Reflectionss.pdb
+C:\Users\ACER\Desktop\.net react\day 8\Reflectionss\Reflectionss\obj\Debug\Reflectionss.exe
+C:\Users\ACER\Desktop\.net react\day 8\Reflectionss\Reflectionss\obj\Debug\Reflectionss.pdb

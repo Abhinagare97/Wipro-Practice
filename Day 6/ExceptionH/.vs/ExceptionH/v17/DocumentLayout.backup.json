@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\ExceptionH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A8836-0FAA-4480-A5F1-7DD502A0F981}|ExceptionH\\ExceptionH.csproj|c:\\users\\acer\\desktop\\.net react\\day 6\\exceptionh\\exceptionh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A8836-0FAA-4480-A5F1-7DD502A0F981}|ExceptionH\\ExceptionH.csproj|solutionrelative:exceptionh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A57A8836-0FAA-4480-A5F1-7DD502A0F981}|ExceptionH\\ExceptionH.csproj|c:\\users\\acer\\desktop\\.net react\\day 6\\exceptionh\\exceptionh\\excc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A57A8836-0FAA-4480-A5F1-7DD502A0F981}|ExceptionH\\ExceptionH.csproj|solutionrelative:exceptionh\\excc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Excc.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\ExceptionH\\ExceptionH\\Excc.cs",
+              "RelativeDocumentMoniker": "ExceptionH\\Excc.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\ExceptionH\\ExceptionH\\Excc.cs",
+              "RelativeToolTip": "ExceptionH\\Excc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:07:24.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\ExceptionH\\ExceptionH\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionH\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\.net react\\Day 6\\ExceptionH\\ExceptionH\\Program.cs",
+              "RelativeToolTip": "ExceptionH\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T07:04:36.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
