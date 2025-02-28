@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.sourcelink.json
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.net react\Day 13\DesignPattern\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll

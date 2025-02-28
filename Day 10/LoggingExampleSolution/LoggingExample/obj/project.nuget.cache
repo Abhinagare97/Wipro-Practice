@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ac/dSI00caM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\.net react\\Day 10\\LoggingExampleSolution\\LoggingExample\\LoggingExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\nlog\\5.4.0\\nlog.5.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

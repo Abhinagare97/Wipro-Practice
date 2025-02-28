@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\.net react\MilestonePrep\bin\Debug\net9.0\MilestonePrep.exe
+C:\Users\ACER\Desktop\.net react\MilestonePrep\bin\Debug\net9.0\MilestonePrep.deps.json
+C:\Users\ACER\Desktop\.net react\MilestonePrep\bin\Debug\net9.0\MilestonePrep.runtimeconfig.json
+C:\Users\ACER\Desktop\.net react\MilestonePrep\bin\Debug\net9.0\MilestonePrep.dll
+C:\Users\ACER\Desktop\.net react\MilestonePrep\bin\Debug\net9.0\MilestonePrep.pdb
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.AssemblyInfo.cs
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.sourcelink.json
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.dll
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\refint\MilestonePrep.dll
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.pdb
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\MilestonePrep.genruntimeconfig.cache
+C:\Users\ACER\Desktop\.net react\MilestonePrep\obj\Debug\net9.0\ref\MilestonePrep.dll
